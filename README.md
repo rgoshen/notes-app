@@ -1,2 +1,2 @@
-# 50_projects_template
-Simple template for creating 50_projects  Udemy course.
+# Notes App
+Notes app project using HTML, CSS and JS.
